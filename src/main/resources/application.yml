@@ -1,0 +1,7 @@
+jasypt:
+  encryptor:
+    password: afjlajfljaoDlewfSFD1316@#42a
+
+demo:
+  username: ENC(pBkhjhBscoFceXlO18XUkz+GoGkbjTz0K9JconRTnWbo3UM5sjvAZo2gMAPYdU5+)
+  password: ENC(C5WO3CPhJiYTmuUOpGWcKV75hMPOzQGwEEXwadB83MmbaXSJIeq8F6aljN2iszU0)
